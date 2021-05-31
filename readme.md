@@ -28,8 +28,8 @@
 ## Implementation & Detail
  설계의 구현을 위해 다음 2개의 서브 그룹으로 나누어 Standalone Demo가 가능하도록 구현하였습니다. 
 
- 1. 음식점 조회/추천
- 2. 음식점 관리
+ 1. 음식점 조회/추천 : https://github.com/CleanCode6/restaurants
+ 2. 음식점 관리 : https://github.com/CleanCode6/restaurant_management
 
  구현을 위해서 다음 기술 및 언어를 사용합니다.
  - 결과물의 형태: Web Application
